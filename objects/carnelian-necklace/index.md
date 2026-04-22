@@ -1,12 +1,12 @@
 ---
 author: Rebecca Brach
-title: "Han Coin with Greek Inscription"
+title: "Carnelian Necklace"
 layout: base
-header-image: images/han-coin-two-sides-blushwood.png
-thumbnail: images/han-coin-blushwood.png
-summary: One or two sentences about the coin but this one is not from Bukhara.
-geo: [39.877, 64.408]
-placename: Bukhara
+header-image: images/carnelian-beads.png
+thumbnail: images/carnelian-necklace.png
+summary: A treasure hoard contained a necklace of carnelian beads.
+geo: [44.119, 79.885]
+placename: Ilibalyk, Shahristan
 tags:
   - object
 ---

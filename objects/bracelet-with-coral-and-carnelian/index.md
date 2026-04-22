@@ -1,12 +1,12 @@
 ---
 author: Rebecca Brach
-title: "Han Coin with Greek Inscription"
+title: "Bracelet with Coral and Carnelian"
 layout: base
-header-image: images/han-coin-two-sides-blushwood.png
-thumbnail: images/han-coin-blushwood.png
-summary: One or two sentences about the coin but this one is not from Bukhara.
-geo: [39.877, 64.408]
-placename: Bukhara
+header-image: images/coral-carnelian-bracelet-2024.png
+thumbnail: images/coral-carnelian-bracelet-2024.png
+summary: Bracelet fragment of coral and carnelian.
+geo: [44.123, 79.874]
+placename: Ilibalyk, Necropolis
 tags:
   - object
 ---

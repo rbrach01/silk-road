@@ -1,12 +1,12 @@
 ---
 author: Rebecca Brach
-title: "Bracelet with Coral and Carnelian"
+title: "Coral Hoard"
 layout: base
-header-image: images/coral-carnelian-bracelet-2024.png
-thumbnail: images/coral-carnelian-bracelet-2024.png
-summary: Bracelet fragment of coral and carnelian.
-geo: [39.877, 64.408]
-placename: Bukhara
+header-image: images/coral-hoard.png
+thumbnail: images/coral-hoard.png
+summary: A treasure trove of artifacts included a collection of red coral.
+geo: [44.119, 79.885]
+placename: Ilibalyk, Shahristan
 tags:
   - object
 ---

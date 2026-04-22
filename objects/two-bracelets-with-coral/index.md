@@ -5,8 +5,8 @@ layout: base
 header-image: images/two-bracelets-reconstructed-2019.png
 thumbnail: images/two-bracelets-reconstructed-2019.png
 summary: These two bracelets were found in a woman's grave.
-geo: [44.131, 79.877]
-placename: Ilibalyk
+geo: [44.123, 79.874]
+placename: Ilibalyk, Necropolis
 tags:
   - object
 ---
