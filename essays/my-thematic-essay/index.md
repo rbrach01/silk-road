@@ -1,10 +1,10 @@
 ---
 author: Rebecca Brach
-title: "Multilingualism: The Invented Tradition"
+title: "Coral and Carnelian at Ilibalyk, Kazakhstan"
 layout: base
 header-image: images/ota-gate-khiva2.jpg
 thumbnail: images/ota-gate-demo-brown.png
-summary: All along the Silk Road trade network multi-lingual contexts shaped the customs of exchange and travel.
+summary: Exotic and eye-catching adornment in the Mongolian Age of the Silk Road.
 ---
 
 # Multi-Lingualism: The Invented Tradition
