@@ -4,7 +4,7 @@ title: "Carnelian Necklace"
 layout: base
 header-image: images/carnelian-beads.png
 thumbnail: images/carnelian-necklace.png
-summary: A treasure hoard contained a necklace of carnelian beads.
+summary: A dramatic carnelian necklace found in a treasure trove.
 geo: [44.119, 79.885]
 placename: Ilibalyk, Shahristan
 tags:

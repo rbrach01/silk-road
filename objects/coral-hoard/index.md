@@ -4,7 +4,7 @@ title: "Coral Hoard"
 layout: base
 header-image: images/coral-hoard.png
 thumbnail: images/coral-hoard.png
-summary: A treasure trove of artifacts included a collection of red coral.
+summary: A collection of red coral found in a treasure trove.
 geo: [44.119, 79.885]
 placename: Ilibalyk, Shahristan
 tags:
