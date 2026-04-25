@@ -1,34 +1,39 @@
 ---
-author: student name
-title: "Monasteries on the Silk Road Trade Network"
+author: Rebecca Brach
+title: "Coral and Carnelian Adornment at Ilibalyk, Kazakhstan"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-green.png
-summary: Monasteries were key to the functioning of the Silk Road Trade Network.
+header-image: images/two-bracelets.png
+thumbnail: images/one-bracelet.png
+summary: Frequently found in association with each other, coral and carnelian are eye-catching materials of adornment.
 ---
 
-# Monasteries: The More Sophisticated Type of Webpage
+# Ilibalyk, Kazakhstan
 
-This essay demonstrates **intermediate ScrollStory features**—building on what you learned in Seedling by adding scrollyboxes, carousels, and more sophisticated visual storytelling. As you scroll, we'll point out what makes this more advanced than a Seedling essay.
+The medieval city of Ilibalyk in modern day Kazakhstan was occupied from the 10th to 15th centuries, spanning the rise and fall of the Mongol Empire. The necropolis which has been excavated over the course of ten field seasons, appears, thus far, to have a more limited period of use from approximately the 12th to 14th centuries, based on dated coins found within burials. This site is an example of a place of trade and occupation functioning within the Mongolian Empire, and later the Chagatai Khanate [Society for the Exploration of Eurasia, Switzerland et al. 2023]
 
-**What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
+The necropolis offers a window into the lives, beliefs, and culture of the occupants of the site. In particular, the majority of burials investigated thus far have cultural and stylistic markers of the Christian Church of the East, or Nestorian Christianity. Thus, the graveyard and associated finds offer a unique window into the relationship between religion and cultural identity within the wider empire. While the necropolis is limited to a subset of the population, the nearby Shahristan and city wall offer a broader view of the site’s usage and role within the region.
 
-The text below includes both explanations and filler content to show how these components work in practice.
-
-
-## Building on Seedling Basics
-{% include images/figure.html
-class="right"
-width="48%"
-caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva2.jpg"
+{% include scrollybox/bg.html
+  image-path="images/coral-horde.png"
+  above-box-space = "100vh"
+  below-box-space = "80vh"
+  box-content=' As a firmly landlocked region, the presence of coral and other exotic goods evidence far-reaching trade relationships.'
 %}
 
-Everything from Seedling still works here: images with captions, footnotes, section headings.[^note1] The Sapling template doesn't replace what you learned—it **adds** to it.
+In both graves in which coral has been found, it has always been in association with carnelian, and significant additional grave goods have been found. In addition, a small horde was found within the Shahristan containing one coral and two carnelian necklaces. This frequent association and presence of additional prestige goods make coral a unique perspective from which to examine the people of ancient Ilibalyk.
 
-[^note1]:Footnotes continue to work exactly as before. All your Seedling skills carry forward.
+## In the Necropolis
+{% include images/fragment-and-rings.png
+class="right"
+width="48%"
+caption="Beads of a bracelet and rings found in a grave. [Source](https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html)"
+image-path="images/fragment-and-rings.png"
+%}
 
-This layered approach is intentional. Master the basics, then add complexity incrementally. You're not learning a whole new system; you're expanding your toolkit with a few powerful new components.[^randomthing]
+Two graves thus far have yielded coral. Both graves were of women estimated to be middle aged, one of whom was in her final trimester of pregnancy. Additional grave goods were found with both women.
+
+
+At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [Society for the Exploration of Eurasia, Switzerland et al. 2023] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [Allsen 2019]
 
 [^randomthing]:Put your source information here.
 
@@ -124,5 +129,6 @@ Ready for even more? Check out the [Forest template](../multilingualism-example-
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
+- Allson, Thomas T. 2019. The Steppe and the Sea: Pearls in the Mongol Empire. Univeristy of Pennsylvania Press.
+- Society for the Exploration of Eurasia, Switzerland, International Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Lanier Center for Archaeology, USA. 2023. “Field Report on the Archaeological Excavations at Ilibalyk Site (Medieval Christian Necropolis), Kazakhstan in 2023.” Society for the Exploration of Eurasia, Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
 - Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
