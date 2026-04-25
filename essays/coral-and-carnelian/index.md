@@ -23,7 +23,7 @@ The necropolis offers a window into the lives, beliefs, and culture of the occup
 In both graves in which coral has been found, it has always been in association with carnelian, and significant additional grave goods have been found. In addition, a small horde was found within the Shahristan containing one coral and two carnelian necklaces. This frequent association and presence of additional prestige goods make coral a unique perspective from which to examine the people of ancient Ilibalyk.
 
 ## In the Necropolis
-{% include images/fragment-and-rings.png
+{% include images/figure.html
 class="right"
 width="48%"
 caption="Beads of a bracelet and rings found in a grave. [Source](https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html)"
