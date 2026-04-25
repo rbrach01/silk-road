@@ -19,7 +19,6 @@ tags:
 Although framented, this bracelet demonstrates and combination of many material types. Bleached pieces of coral, a carnelian bead, a tiny shell, and a small glass bead all comprised this bracelet [Society for the Exploration of Eurasia, Switzerland et al. 2024)]
 
 
-## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
