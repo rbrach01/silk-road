@@ -35,20 +35,7 @@ Two graves thus far have yielded coral. Both graves were of women estimated to b
 
 At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [Society for the Exploration of Eurasia, Switzerland et al. 2023] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [Allsen 2019]
 
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-
-## Your First Scrollybox
-Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
-
-{% include scrollybox/bg.html
-  image-path="images/ota-gate-khiva2.jpg"
-  above-box-space = "100vh"
-  below-box-space = "80vh"
-  box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
-%}
+Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians [Stewart 2020]
 
 
 ## What Just Happened?
@@ -75,35 +62,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id
 Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
 
 {% assign images =
-"images/ota-gate-demo-brown.png,
-images/ota-gate-demo-gray.png,
-images/ota-gate-demo-green.png" | split: ','
+"images/gold-ring.png,
+images/rosette-ring.png,
+images/scissors.png" | split: ','
 %}
 
 {% include images/carousel.html
 id="first"
 images=images
 %}
-
-**Why use carousels?** When you have 3-5 related images (historical documents, different views of a building, a sequence of photos), a carousel lets readers compare them side-by-side without scrolling past each one. Click the arrows or dots to move between images.
-
-**Accessibility note:** Always include captions and source links so screen readers and citations work properly.
-
-
-## Larger Images
-{% include images/figure.html class="right" width="60%" caption="This image is 60% width instead of 48%, giving it more visual weight. Adjust widths based on what the image needs. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)" image-path="images/ota-gate-khiva2.jpg" %}
-
-Just like in Seedling, you control image sizes with the `width` parameter. A floorplan or map might need 60-70% width to be legible, while a portrait might look better at 40%.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-## Block Quotes for Primary Sources
-Architectural features of the Ota Darvaza reflect much of the culture of the Silk Road. Random Imaginary Person, a visitor to Khiva, spoke poetically about their experience of the architecture of the gate.
-
-> As I entered the Ota Darvaza, the splendor of the gateway overwhelmed me. [Source](https://en.wikipedia.org/wiki/Ota_Darvaza)
-
-Block quotes span the full text width and are perfect for extended quotations from archival sources, documents, or scholarly works. They're visually distinct from the scrollybox overlays and pull quotes.
 
 
 ## What You've Learned in Sapling
@@ -131,4 +98,4 @@ Ready for even more? Check out the [Forest template](../multilingualism-example-
 
 - Allson, Thomas T. 2019. The Steppe and the Sea: Pearls in the Mongol Empire. Univeristy of Pennsylvania Press.
 - Society for the Exploration of Eurasia, Switzerland, International Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Lanier Center for Archaeology, USA. 2023. “Field Report on the Archaeological Excavations at Ilibalyk Site (Medieval Christian Necropolis), Kazakhstan in 2023.” Society for the Exploration of Eurasia, Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Stewart, Charles Anthony. 2020. “The Four-Petal Almond Rosette in Central Asia.” Bulletin of IICAS (Samarkand) 30: 69–85. https://doi.org/10.34920/1694-5794-2020-36.
