@@ -17,7 +17,6 @@ tags:
 
 Found within the same horde as the carnelian necklaces, this is the clearest example found at Ilibalyk of red coral. The color of the pieces found in burials has largely faded, but this necklace maintains its vibrant color. Its source location could not be determined without in depth analysis and possible destructive testing, but it may be theorized.
 
-## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="60%"
