@@ -35,7 +35,7 @@ Two graves thus far have yielded coral. Both graves were of women estimated to b
 
 At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [Society for the Exploration of Eurasia, Switzerland et al. 2023] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [Allsen 2019]
 
-Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians [Stewart 2020]
+Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians as a hidden symbol of the cross [Stewart 2020].
 
 
 ## What Just Happened?
@@ -47,8 +47,6 @@ That was a **scrollybox**—text that appears in a box over a full-screen backgr
 
 
 ## Pull Quotes Still Work
-{% include typography/aside.html class="left" text="
-This left-aligned pull quote is the same component you learned in Seedling. Sapling essays can mix scrollyboxes with traditional pull quotes depending on what fits your narrative." %}
 
 Notice how this pull quote appears alongside regular text, while the scrollybox took over the entire screen. Different tools for different purposes:
 
@@ -61,16 +59,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id
 ## Image Carousels for Comparisons
 Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
 
-{% assign images =
-"images/gold-ring.png,
-images/rosette-ring.png,
-images/scissors.png" | split: ','
-%}
-
-{% include images/carousel.html
-id="first"
-images=images
-%}
 
 
 ## What You've Learned in Sapling
