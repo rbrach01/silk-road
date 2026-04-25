@@ -1,74 +1,43 @@
 ---
 author: Rebecca Brach
-title: "Coral Hoard"
+title: "Coral Horde"
 layout: base
-header-image: images/coral-hoard.png
-thumbnail: images/coral-hoard.png
+header-image: images/coral-horde.png
+thumbnail: images/coral-horde.png
 summary: A collection of red coral found in a treasure trove.
 geo: [44.119, 79.885]
 placename: Ilibalyk, Shahristan
 tags:
-  - object
+  - coral
+  - horde
+  - jewelry
 ---
 
-# Coin that is not from Bukhara
+# Coral Necklace
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
+Found within the same horde as the carnelian necklaces, this is the clearest example found at Ilibalyk of red coral. The color of the pieces found in burials has largely faded, but this necklace maintains its vibrant color. Its source location could not be determined without in depth analysis and possible destructive testing, but it may be theorized.
 
 ## Your First Section Heading
 {% include images/figure.html
 class="right"
-width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-blushwood.png"
+width="60%"
+caption="Close-up image of the coral beads found in the horde. [Source](https://www.exploration-eurasia.com/inhalt/Ilanbalyk_2018.pdf)"
+image-path="images/coral-horde.png"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+Two primary theories exist for the origin of this coral: the Indian Ocean [Eurasia Exploration Society, Switzerland et al. 2019]  and the Mediterranean Ocean [Allson 2019]
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+The Indian Ocean theory appears to be somewhat unusual. Although sources are known for red coral in the region, there is well document trade of the material from the Mediterranean. It may be that the Indian Ocean feels like a more plausible source for a site located so far to the East. However, this may arise from a misunderstanding of the relationship between Europe and the West with the Mongol Empire and the East.
 
-[^randomthing]:Put your source information here.
+## Add: pearl horde image
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+The Mongols were eager to maintain trade and ensure the continued movement of prestige goods, particularly those of exotic origin. Knowing their passion for pearls for their association with the ocean, something largely foreign to most dwelling within the Central Asia region, it is unsurprising they would have a high demand for coral. Pearls were prized in part for their purity of color and natural luminescence [Allson 2019]. As was seen with the other materials found in the horde, the people of Ilibalyk may have adorned themselves regularly in bright colors. Red coral would have been an excellent contributor to this practice.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
-
-
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
-
-
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+Because of the abundance of source attesting to the coral trade from the Mediterranean, and lacking clear evidence for the Indian Ocean theory, it seems the most obvious answer may indeed be the correct one. In conjunction with more global understanding of the Mongol Empire and its commitment to trade, the idea of Mediterranean coral reaching the steppes of Central Asia seems more likely than it might initially appear.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Allson, Thomas T. 2019. The Steppe and the Sea: Pearls in the Mongol Empire. Univeristy of Pennsylvania Press.
+- Eurasia Exploration Society, Switzerland, International Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Tandy Institute for Archaeology. 2019. “Field Report on the Archaeological Excavations at Usharal-Ilibalyk, Kazakhstan in 2019.” Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.

@@ -22,7 +22,7 @@ Between the two necklaces found in the horde, 69 carnelian beads were found rang
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://www.exploration-eurasia.com/inhalt/Ilanbalyk_2018.pdf)"
+caption="Reconstructed necklace. [Source](https://www.exploration-eurasia.com/inhalt/Ilanbalyk_2018.pdf)"
 image-path="images/carnelian-necklace.png"
 %}
 
@@ -32,7 +32,7 @@ This necklace was reconstructed after excavation and analysis. Although chipped 
 {% include images/figure.html
 class="left"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://www.exploration-eurasia.com/inhalt/Ilanbalyk_2018.pdf)"
+caption="Flat carnelian beads. [Source](https://www.exploration-eurasia.com/inhalt/Ilanbalyk_2018.pdf)"
 image-path="images/carnelian-beads.png"
 %}
 
