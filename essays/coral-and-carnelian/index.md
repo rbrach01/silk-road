@@ -20,6 +20,7 @@ The necropolis offers a window into the lives, beliefs, and culture of the occup
   box-content=' As a firmly landlocked region, the presence of coral and other exotic goods evidence far-reaching trade relationships.'
 %}
 
+
 In both graves in which coral has been found, it has always been in association with carnelian, and significant additional grave goods have been found. In addition, a small horde was found within the Shahristan containing one coral and two carnelian necklaces. This frequent association and presence of additional prestige goods make coral a unique perspective from which to examine the people of ancient Ilibalyk.
 
 ## In the Necropolis
@@ -35,15 +36,16 @@ Two graves thus far have yielded coral. Both graves were of women estimated to b
 
 At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [Society for the Exploration of Eurasia, Switzerland et al. 2023] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [Allsen 2019]
 
-Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians as a hidden symbol of the cross [Stewart 2020].
+Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians as a hidden image of the cross [Stewart 2020].
+
+## To be added: Image carousel of rings and bracelets from this burial
+
+## In the Shahristan
+The shahristan was a hub for the medieval city of Ilibalyk. Near the city walls to the north and east of the city, excavation were done revealing a bathhouse, among other structural finds. In addition to these, a literal treasure box was found in a niche of the fortress wal (Eurasia Exploration Society, Switzerland et al. 2019). Within this box, among other stunning finds, was a coral necklace, and two necklaces of dark carnelian beads.
+
+## To be added: carousel or insert images of necklaces
 
 
-## What Just Happened?
-That was a **scrollybox**—text that appears in a box over a full-screen background image. As you scrolled, the background image stayed fixed while the text box scrolled into view, stayed visible, then scrolled away.
-
-**Why use scrollyboxes?** They create moments of focus and drama. The full-screen image immerses readers in a visual context, while the overlay text provides commentary, quotations, or key points. It's like a visual pause in your narrative.
-
-**Technical note:** The `above-box-space` and `below-box-space` parameters control how much blank scroll space appears before and after the text box. Adjust these to control pacing—more space = slower, more contemplative; less space = faster pacing.
 
 
 ## Pull Quotes Still Work
@@ -85,5 +87,6 @@ Ready for even more? Check out the [Forest template](../multilingualism-example-
 ## Bibliography
 
 - Allson, Thomas T. 2019. The Steppe and the Sea: Pearls in the Mongol Empire. Univeristy of Pennsylvania Press.
+- Eurasia Exploration Society, Switzerland, International Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Tandy Institute for Archaeology. 2019. “Field Report on the Archaeological Excavations at Usharal-Ilibalyk, Kazakhstan in 2019.” Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
 - Society for the Exploration of Eurasia, Switzerland, International Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Lanier Center for Archaeology, USA. 2023. “Field Report on the Archaeological Excavations at Ilibalyk Site (Medieval Christian Necropolis), Kazakhstan in 2023.” Society for the Exploration of Eurasia, Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
 - Stewart, Charles Anthony. 2020. “The Four-Petal Almond Rosette in Central Asia.” Bulletin of IICAS (Samarkand) 30: 69–85. https://doi.org/10.34920/1694-5794-2020-36.
