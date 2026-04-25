@@ -45,42 +45,10 @@ The shahristan was a hub for the medieval city of Ilibalyk. Near the city walls 
 
 ## To be added: carousel or insert images of necklaces
 
+The shahristan is certainly representative of a different realm of identity and existence for the people living at Ilibalyk than the cemetery. Nevertheles, the similarty in materials found here with those in the necropolis demonstrates the integration of religious and cultural identity. The burial styles are Christian: all individuals are buried facing the east, the rising sun. Many of them are buried with religious symbols such as the four-petal rosette, or cross-engraved gravestones not discussed here. They are also buried with culturally identifying artifacts such as the scissors, or boqta headdresses also not discussed here.
 
+Further elaboration upon the significance of exotic materials such as coral and carnelian in these burials and their role in showing how the people of Ilibalyk understood themselves and their place in the world.
 
-
-## Pull Quotes Still Work
-
-Notice how this pull quote appears alongside regular text, while the scrollybox took over the entire screen. Different tools for different purposes:
-
-- **Pull quotes** emphasize key text within ongoing paragraphs
-- **Scrollyboxes** create immersive moments that break away from normal flow
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl. Praesent sed vehicula velit, vel hendrerit neque.
-
-
-## Image Carousels for Comparisons
-Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
-
-
-
-## What You've Learned in Sapling
-If you can create a Sapling essay, you can:
-
-- **Use scrollyboxes** to overlay text on full-screen background images
-- **Control pacing** with scroll space parameters
-- **Add image carousels** for comparing multiple related images
-- **Mix components** - scrollyboxes, pull quotes, carousels, and standard images in one essay
-- **Create immersive narratives** that feel more like multimedia stories than traditional web pages
-
-**This is enough for most sophisticated digital humanities projects.** The Forest essay adds background switching and side-scrolling for even more cinematic effects, but Sapling gives you all the tools for compelling visual scholarship.
-
-**What makes Sapling different from Seedling?**
-- Background scrollyboxes for immersive text overlays
-- Image carousels for comparing multiple images
-- More sophisticated visual storytelling
-- All Seedling components still work
-
-Ready for even more? Check out the [Forest template](../multilingualism-example-theme/) for advanced features like background switching and side-scrolling.
 
 ---
 
