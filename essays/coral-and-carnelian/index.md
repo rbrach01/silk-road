@@ -13,7 +13,7 @@ The medieval city of Ilibalyk in modern day Kazakhstan was occupied from the 10t
 
 [^SEE]: Society for the Exploration of Eurasia, Switzerland et al. 2023
 
-The necropolis offers a window into the lives, beliefs, and culture of the occupants of the site. In particular, the majority of burials investigated thus far have cultural and stylistic markers of the Christian Church of the East, or Nestorian Christianity. Thus, the graveyard and associated finds offer a unique window into the relationship between religion and cultural identity within the wider empire. While the necropolis is limited to a subset of the population, the nearby Shahristan and city wall offer a broader view of the site’s usage and role within the region. All of this cannot be disconnected from the city's position within the Mongol Empire and along a known trade route. The movement of peoples and goods brought by the Silk Roads would certainly have greatly impacted the lives and understandings of the more permanent habitants of Ilibalyk.
+The necropolis offers a window into the lives, beliefs, and culture of the occupants of the site. In particular, the majority of burials investigated thus far have cultural and stylistic markers of the Christian Church of the East, or Nestorian Christianity. Thus, the graveyard and associated finds offer a unique window into the relationship between religion and cultural identity within the wider empire. While the necropolis is limited to a subset of the population, the nearby Shahristan and city wall offer a broader view of the site’s usage and role within the region. All of this cannot be disconnected from the city's position within the Mongol Empire and along a known trade route. The movement of peoples and goods brought by the Silk Roads would certainly have greatly impacted the lives and understandings of the more permanent inhabitants of Ilibalyk.
 
 {% include scrollybox/bg.html
   image-path="images/coral-horde.png"
@@ -23,7 +23,7 @@ The necropolis offers a window into the lives, beliefs, and culture of the occup
 %}
 
 
-In both graves in which coral has been found, it has always been in association with carnelian, and significant additional grave goods have been found. In addition, a small horde was found within the Shahristan containing one coral and two carnelian necklaces. This frequent association and presence of additional prestige goods make coral a unique perspective from which to examine the people of ancient Ilibalyk.
+In both graves in which coral has been found, it has always been in association with carnelian, and significant additional grave goods have been found. In addition, a small horde was found within the Shahristan containing one coral and two carnelian necklaces. This frequent association and presence of additional prestige goods makes coral a unique perspective from which to examine the people of ancient Ilibalyk.
 
 ## In the Necropolis
 {% include images/figure.html
@@ -36,12 +36,12 @@ image-path="images/fragment-and-rings.png"
 Two graves thus far have yielded coral. Both graves were of women estimated to be middle aged, one of whom was in her final trimester of pregnancy. Additional grave goods were found with both women.
 
 
-At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [^SEE] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [^Allsen]. Unlike the gold Roman earrings [^Rome], these were not designed for pierced ears, instead wrapping over the top. This may be due to the weight of the materials and quantity of pearls.
+At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [^SEE] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [^Allsen]. Unlike such examples as the gold Roman earrings [^Rome], these were not designed for pierced ears, instead wrapping over the top. This may be due to the weight of the materials and quantity of pearls.
 
 [^Allsen]: Allsen 2019
 [^Rome]: https://amaranth.unm.edu/silk-road//objects/earring-roman/
 
-Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians as a hidden image of the cross [^Stewart].
+Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in one of these grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians as a hidden image of the cross [^Stewart].
 
 [^Stewart]: Stewart 2020
 
