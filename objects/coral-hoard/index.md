@@ -15,7 +15,7 @@ tags:
 
 # Coral Necklace
 
-Found within the same horde as the carnelian necklaces, this is the clearest example found at Ilibalyk of red coral. The color of the pieces found in burials has largely faded, but this necklace maintains its vibrant color. Its source location could not be determined without in depth analysis and possible destructive testing, but it may be theorized.
+Found within the same horde as the carnelian necklaces, this is the clearest example of red coral found at Ilibalyk. The color of the pieces found in burials has largely faded, but this necklace maintains its vibrant color. Its source location could not be determined without in depth analysis and possible destructive testing, but it may be theorized.
 
 {% include images/figure.html
 class="right"
@@ -24,11 +24,21 @@ caption="Close-up image of the coral beads found in the horde. [Source](https://
 image-path="images/coral-horde.png"
 %}
 
-Two primary theories exist for the origin of this coral: the Indian Ocean [Eurasia Exploration Society, Switzerland et al. 2019]  and the Mediterranean Ocean [Allson 2019]
+Two primary theories exist for the origin of this coral: the Indian Ocean [^EES]  and the Mediterranean Ocean [^Allsen]
 
-The Indian Ocean theory appears to be somewhat unusual. Although sources are known for red coral in the region, there is well document trade of the material from the Mediterranean. It may be that the Indian Ocean feels like a more plausible source for a site located so far to the East. However, this may arise from a misunderstanding of the relationship between Europe and the West with the Mongol Empire and the East.
+[^EES]: Eurasia Exploration Society, Switzerland et al. 2019
+[^Allsen]: Allsen 2019
+
+The Indian Ocean theory appears to be somewhat unusual. Although sources are known for red coral in the region, there is well documented trade of the material from the Mediterranean. It may be that the Indian Ocean feels like a more plausible source for a site located so far to the East. However, this may arise from a misunderstanding of the relationship between Europe and the West with the Mongol Empire and the East.
 
 ## Add: pearl horde image
+
+{% include images/figure.html
+class="left"
+width="60%"
+caption="More than 400 pearls were found in this 'treasure trove'. [Source](https://www.exploration-eurasia.com/inhalt/Ilanbalyk_2018.pdf)"
+image-path="images/pearl-horde.png"
+%}
 
 The Mongols were eager to maintain trade and ensure the continued movement of prestige goods, particularly those of exotic origin. Knowing their passion for pearls for their association with the ocean, something largely foreign to most dwelling within the Central Asia region, it is unsurprising they would have a high demand for coral. Pearls were prized in part for their purity of color and natural luminescence [Allson 2019]. As was seen with the other materials found in the horde, the people of Ilibalyk may have adorned themselves regularly in bright colors. Red coral would have been an excellent contributor to this practice.
 
