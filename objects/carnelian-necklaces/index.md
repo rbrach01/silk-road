@@ -38,9 +38,7 @@ caption="Flat carnelian beads. [Source](https://www.exploration-eurasia.com/inha
 image-path="images/carnelian-beads.png"
 %}
 
-In the second necklace, too, the design of the beads is clear, with the addition of a pendant. The similarities between the two necklaces may be reflective of a common producer or current fashion, or perhaps both.
-
-Carnelian was a popular material for adornment, particularly for its bright and varied colors. The rich red color of the beads is noteworthy alongside the other colorful materials found in this horde: turquoise, pearls, and red coral. 
+In the second necklace, too, the design of the beads is clear, with the addition of a pendant. The similarities between the two necklaces may be reflective of a common producer or current fashion, or perhaps both. Carnelian was a popular material for adornment, particularly for its bright and varied colors. The rich red color of the beads is noteworthy alongside the other colorful materials found in this horde: turquoise, pearls, and red coral. 
 
 As many of these items were designed to be worn as adornment, it is apparent that the people of Ilibalyk were not afraid to make a bold, colorful statement with their dress [^2018]. Carnelian has since been found in several burials in the necropolis, although the color has tended to be brighter and orangier. [^2024]
 
