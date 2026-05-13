@@ -40,7 +40,9 @@ image-path="images/carnelian-beads.png"
 
 Here, too, the design of the beads is clear, with the addition of a pendant. The similarities between the two necklaces may be reflective of a common producer or current fashion, or perhaps both.
 
-Carnelian was a popular material for adornment, particularly for its bright and varied colors. The rich red color of the beads is noteworthy alongside the other colorful materials found in this horde: turquoise, pearls, and red coral. As many of these items were designed to be worn as adornment, it is apparent that the people of Ilibalyk were not afraid to make a bold, colorful statement with their dress [^2018].
+Carnelian was a popular material for adornment, particularly for its bright and varied colors. The rich red color of the beads is noteworthy alongside the other colorful materials found in this horde: turquoise, pearls, and red coral. As many of these items were designed to be worn as adornment, it is apparent that the people of Ilibalyk were not afraid to make a bold, colorful statement with their dress [^2018]. Carnelian has since been found in several burials in the necropolis, although the color has tended brighter and orangier. [^2024]
+
+[^2024]: Society for the Exploration of Eurasia, Switzerland et al. 2024
 
 
 {% assign images =
@@ -63,5 +65,5 @@ Perhaps, if indeed an attack occurred, the materials were left as a totem or mea
 ---
 
 ## Bibliography
-- Eurasia Exploration Society, Switzerland, International Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Tandy Institute for Archaeology. 2019. “Field Report on the Archaeological Excavations at Usharal-Ilibalyk, Kazakhstan in 2019.” Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
--Public Fund “Archaeological Society of Kazakhstan”, Republic of Kazakhstan and The Society for the Exploration of Eurasia, Switzerland. 2018. “Excavations of the Site of Usharal – the Citadel of City of Ilanbalyk in 2018.” Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
+- Public Fund “Archaeological Society of Kazakhstan”, Republic of Kazakhstan and The Society for the Exploration of Eurasia, Switzerland. 2018. “Excavations of the Site of Usharal – the Citadel of City of Ilanbalyk in 2018.” Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
+- Society for the Exploration of Eurasia, Switzerland, International Institute for Central Asian Studies, RUTRUM LLP, Kazakhstan, and Lanier Center for Archaeology, USA. 2024. “Field Report on the Archaeological Excavations at Ilibalyk Site (Medieval Christian Necropolis), Kazakhstan in 2024.” https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
