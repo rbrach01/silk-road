@@ -23,9 +23,9 @@ caption="Pieces of the bracelet in a laboratory setting. [Source](https://www.ex
 image-path="images/coral-carnelian-bracelet-2024.png"
 %}
 
-Although fragmented, this bracelet demonstrates and combination of many material types. Bleached pieces of coral, a carnelian bead, a tiny shell, and a small glass bead all comprised this bracelet [^SEE] Though far fewer beads have been preserved when compared to the other coral bracelet at Ilibalyk, this one is noteworthy for the presence of other maritime materials as well as the carnelian and its shape, which appears to be that of a gastropod.
+Although fragmented, this bracelet found during the 2024 excavation season demonstrates a combination of many material types. Bleached pieces of coral, a carnelian bead, a tiny shell, and a small glass bead all comprised this bracelet. [^SEE] Though far fewer beads have been preserved when compared to the other coral bracelet at Ilibalyk, this one is noteworthy for the presence of other maritime materials as well as the carnelian and its shape.
 
-Not all the materials in the other set of bracelets have been identified, but there is no clear presence of shells. This bracelet then stands in contrast being comprised primarily of ocean-themed materials. 
+Not all the materials in the other set of bracelets have been identified, but there is no clear presence of shells. This bracelet then stands in contrast being comprised primarily of ocean-themed materials. The carnelian bead which would have hung down from the string appears to have been shaped into the  be that of a gastropod
 
 [^SEE]: Society for the Exploration of Eurasia, Switzerland et al. 2024
 

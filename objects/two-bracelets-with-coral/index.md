@@ -16,7 +16,7 @@ tags:
 
 # A Matching Set
 
-Two similarly designed bracelets with coral and carnelian were found in this burial alongside many other grave goods. Through careful excavation, the position of the beads was maintained within the grave and thoroughly documented prior to extraction. This allowed for a laboratory reconstruction of how they may have been strung.
+Two similarly designed bracelets with coral and carnelian were found during the 2019 excavation season in a burial alongside many other grave goods. Through careful excavation, the position of the beads was maintained within the grave and thoroughly documented prior to extraction. This allowed for a laboratory reconstruction of how they may have been strung.
 
 {% include images/figure.html
 class="right"
