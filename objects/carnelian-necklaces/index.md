@@ -23,7 +23,7 @@ Between the two necklaces found in the horde, 69 carnelian beads were found rang
 
 {% include images/figure.html
 class="right"
-width="38%"
+width="48%"
 caption="Reconstructed necklace. [Source](https://www.exploration-eurasia.com/inhalt/Ilanbalyk_2018.pdf)"
 image-path="images/carnelian-necklace.png"
 %}
@@ -62,7 +62,8 @@ Much the same as coral, carnelian was also associated with healing properties. T
 
 Certainly the most obvious is that someone intended to hide their valuables from attackers. While an interesting story, thus far little evidence of attack has been found in this area of the city. Additionally, would it be wise to hide your valuable materials so near the point of attack?
 Given the proximity to an ecenomic hub for the city, maybe the horde belonged to merchant or trader who intended to have it available for business. This also raises some questions, such as why it would have been left there. It is possible that additional excavations in the area would reveal something about the local district that would help clarify who would have been in the area and what they might have been doing.
-Perhaps, if indeed an attack occurred, the materials were left as a totem or means of protection for the city. The value of the materials and their ascribed healing properties might have been perceived as a way to deter attack or to protect the wellbeing of Ilibalyk.
+
+A final theory is that, if indeed an attack occurred, the materials were left as a totem or means of protection for the city. The value of the materials and their ascribed healing properties might have been perceived as a way to deter attack or to protect the wellbeing of Ilibalyk.
 
 ---
 
