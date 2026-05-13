@@ -45,7 +45,7 @@ Alongside the pearl earrings and elaborate bracelets of coral, carnelian and oth
 {% assign images =
 "images/gold-ring.png,
 images/rosette-ring.png,
-images/silver-bracelet
+images/silver-bracelet.png
 images/bracelets-and-rings.png" | split: ','
 %}
 
@@ -57,6 +57,16 @@ images = images
 The shahristan was a hub for the medieval city of Ilibalyk. Near the city walls to the north and east of the city, excavation were done revealing a bathhouse, among other structural finds. In addition to these, a literal treasure box was found in a niche of the fortress wall [^SEE]. Within this box, among other stunning finds, was a coral necklace, and two necklaces of dark carnelian beads.
 
 ## To be added: carousel or insert images of necklaces
+
+{% assign necklaces =
+"images/carnelian-beads.png
+images/coral-horde.png,
+images/carnelian-necklace.png," | split: ','
+%}
+
+{% include necklaces/carousel.html
+images = necklaces
+%}}
 
 The shahristan is certainly representative of a different realm of identity and existence for the people living at Ilibalyk than the cemetery. Nevertheles, the similarty in materials found here with those in the necropolis demonstrates the integration of religious and cultural identity. The burial styles are Christian: all individuals are buried facing the east, the rising sun. Many of them are buried with religious symbols such as the four-petal rosette, or cross-engraved gravestones not discussed here. They are also buried with culturally identifying artifacts such as the scissors, or boqta headdresses also not discussed here.
 
