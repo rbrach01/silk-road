@@ -62,6 +62,19 @@ The shahristan was a hub for the medieval city of Ilibalyk. Near the city walls 
 
 ## To be added: carousel or insert images of necklaces
 
+{% include images/figure.html
+class="right"
+width="48%"
+caption="Another carnelian necklace. [Source](https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html)"
+image-path="images/carnelian-necklace.png"
+%}
+
+{% include images/figure.html
+class="left"
+width="48%"
+caption="Reconstructed carnelian necklace. [Source](https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html)"
+image-path="images/carnelian-beads.png"
+%}
 
 The shahristan is certainly representative of a different realm of identity and existence for the people living at Ilibalyk than the cemetery. Nevertheles, the similarty in materials found here with those in the necropolis demonstrates the integration of religious and cultural identity. The burial styles are Christian: all individuals are buried facing the east, the rising sun. Many of them are buried with religious symbols such as the four-petal rosette, or cross-engraved gravestones not discussed here. They are also buried with culturally identifying artifacts such as the scissors, or boqta headdresses also not discussed here.
 
