@@ -9,7 +9,9 @@ summary: Frequently found in association with each other, coral and carnelian ar
 
 # Ilibalyk, Kazakhstan
 
-The medieval city of Ilibalyk in modern day Kazakhstan was occupied from the 10th to 15th centuries, spanning the rise and fall of the Mongol Empire. The necropolis which has been excavated over the course of ten field seasons, appears, thus far, to have a more limited period of use from approximately the 12th to 14th centuries, based on dated coins found within burials. This site is an example of a place of trade and occupation functioning within the Mongolian Empire, and later the Chagatai Khanate [Society for the Exploration of Eurasia, Switzerland et al. 2023]
+The medieval city of Ilibalyk in modern day Kazakhstan was occupied from the 10th to 15th centuries, spanning the rise and fall of the Mongol Empire. The necropolis which has been excavated over the course of ten field seasons, appears, thus far, to have a more limited period of use from approximately the 12th to 14th centuries, based on dated coins found within burials. This site is an example of a place of trade and occupation functioning within the Mongolian Empire, and later the Chagatai Khanate [^SEE]
+
+[^SEE]: Society for the Exploration of Eurasia, Switzerland et al. 2023
 
 The necropolis offers a window into the lives, beliefs, and culture of the occupants of the site. In particular, the majority of burials investigated thus far have cultural and stylistic markers of the Christian Church of the East, or Nestorian Christianity. Thus, the graveyard and associated finds offer a unique window into the relationship between religion and cultural identity within the wider empire. While the necropolis is limited to a subset of the population, the nearby Shahristan and city wall offer a broader view of the site’s usage and role within the region. All of this cannot be disconnected from the city's position within the Mongol Empire and along a known trade route. The movement of peoples and goods brought by the Silk Roads would certainly have greatly impacted the lives and understandings of the more permanent habitants of Ilibalyk.
 
@@ -38,7 +40,17 @@ At least two rings were found in each woman's grave. One was buried with a pair 
 
 Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians as a hidden image of the cross [Stewart 2020].
 
-## To be added: Image carousel of rings and bracelets from this burial
+## Additional Jewelry Found in Burial
+
+{% assign images =
+"images/gold-ring.png,
+images/rosette-ring.png,
+images/bracelets-and-rings.png" | split: ','
+%}
+
+{% include images/carousel.html
+images = images
+%}
 
 ## In the Shahristan
 The shahristan was a hub for the medieval city of Ilibalyk. Near the city walls to the north and east of the city, excavation were done revealing a bathhouse, among other structural finds. In addition to these, a literal treasure box was found in a niche of the fortress wal (Eurasia Exploration Society, Switzerland et al. 2019). Within this box, among other stunning finds, was a coral necklace, and two necklaces of dark carnelian beads.
