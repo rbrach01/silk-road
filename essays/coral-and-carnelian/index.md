@@ -36,7 +36,7 @@ image-path="images/fragment-and-rings.png"
 Two graves thus far have yielded coral. Both graves were of women estimated to be middle aged, one of whom was in her final trimester of pregnancy. Additional grave goods were found with both women.
 
 
-At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [^SEE] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [^Allsen] Unlike the gold Roman earrings [^Rome], these were not designed for pierced ears, instead wrapping over the top. This may be due to the weight of the materials and quantity of pearls.
+At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [^SEE] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [^Allsen]. Unlike the gold Roman earrings [^Rome], these were not designed for pierced ears, instead wrapping over the top. This may be due to the weight of the materials and quantity of pearls.
 
 [^Allsen]: Allsen 2019
 [^Rome]: https://amaranth.unm.edu/silk-road//objects/earring-roman/
