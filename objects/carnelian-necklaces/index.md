@@ -15,9 +15,11 @@ tags:
 
 # Carnelian from the Treasure Chest
 
-Treasure chest may be a dramatic way of describing this find, but it is certainly the type of discovery people like to tell stories about. Found during the 2018 excavation season within a niche of the medieval fortress wall, this collection of artifacts is a beautiful example of a diverse collection of materials that could be found throughout the silk roads during the time of the Mongol Empire. The horde was contained in a wooden box covered in leather, although these materials had severely degraded over the years. 
+'Treasure chest' may be a dramatic way of describing this find, but it is certainly the type of discovery people like to tell stories about. Found during the 2018 excavation season within a niche of the medieval fortress wall, this collection of artifacts is a beautiful example of a diverse collection of materials that could be found throughout the silk roads during the time of the Mongol Empire. The horde was contained in a wooden box covered in leather, although these materials had severely degraded over the years. 
 
-Between the two necklaces found in the horde, 69 carnelian beads were found ranging in size and shape [Public Fund “Archaeological Society of Kazakhstan”, Republic of Kazakhstan and The Society for the Exploration of Eurasia, Switzerland 2018]. Additional necklaces of silver beads were also found, in addition to silver bracelets. 
+Between the two necklaces found in the horde, 69 carnelian beads were found ranging in size and shape. [^2018] Necklaces of silver beads were also found, in addition to silver bracelets and other materials
+
+[^2018]: Public Fund “Archaeological Society of Kazakhstan”, Republic of Kazakhstan and The Society for the Exploration of Eurasia, Switzerland 2018
 
 {% include images/figure.html
 class="right"
@@ -26,7 +28,7 @@ caption="Reconstructed necklace. [Source](https://www.exploration-eurasia.com/in
 image-path="images/carnelian-necklace.png"
 %}
 
-This necklace was reconstructed after excavation and analysis. Although chipped from the wear of time, the intentional shaping and design of the beads is apparent. The spacing and structure is intentional, creating an eye-catching piece of jewelry.
+This necklace was reconstructed after excavation and analysis. Although chipped from the wear of time, the intentional shaping and design of the beads is apparent, with the corresponding spacing and structure creating an eye-catching piece of jewelry.
 
 
 {% include images/figure.html
@@ -36,11 +38,21 @@ caption="Flat carnelian beads. [Source](https://www.exploration-eurasia.com/inha
 image-path="images/carnelian-beads.png"
 %}
 
-Here, too, the design of the beads is clear, with the addition of a pendant. The similarities between the two necklace may be reflective of a common producer or current fashion, or perhaps both.
+Here, too, the design of the beads is clear, with the addition of a pendant. The similarities between the two necklaces may be reflective of a common producer or current fashion, or perhaps both.
 
-Carnelian was a popular material for adornment, particularly for its bright and varied colors. The rich red color of the beads noteworthy alongside the other colorful materials found in this horde: turquoise, pearls, and red coral. As many of these items were designed to be worn as adornment, it is apparent that the people of Ilibalyk were not afraid to make a bold, colorful statement with their dress [Public Fund “Archaeological Society of Kazakhstan”, Republic of Kazakhstan and The Society for the Exploration of Eurasia, Switzerland 2018].
+Carnelian was a popular material for adornment, particularly for its bright and varied colors. The rich red color of the beads is noteworthy alongside the other colorful materials found in this horde: turquoise, pearls, and red coral. As many of these items were designed to be worn as adornment, it is apparent that the people of Ilibalyk were not afraid to make a bold, colorful statement with their dress [^2018].
 
-## Add: picture of turquoise and or pearls
+
+{% assign images =
+"images/earring-horde.png,
+images/jade-pendant.png,
+images/silver-bracelets-horde.png
+images/pearl-horde.png" | split: ','
+%}
+
+{% include images/carousel.html
+images = images
+%}
 
 Much the same as coral, carnelian was also associated with healing properties. This was also the case with pearls. Given the presence of all three of these materials in the horde, it seems possible that medicinal or preventative care was in mind with the creation and use of such adornments.
 
