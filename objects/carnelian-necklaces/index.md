@@ -54,13 +54,11 @@ images/pearl-horde.png" | split: ','
 images = images
 %}
 
-Much the same as coral, carnelian was also associated with healing properties. This was also the case with pearls. Given the presence of all three of these materials in the horde, it seems possible that medicinal or preventative care was in mind with the creation and use of such adornments.
-
-Why might such a box have been hidden, particularly so near the city walls? There is, unfortunately, no clear answer to this, but some theories may be hypothesized.
+Much the same as coral, carnelian was also associated with healing properties. This was also the case with pearls. Given the presence of all three of these materials in the horde, it seems possible that medicinal or preventative care was in mind with the creation and use of such adornments. Why might such a box have been hidden, particularly so near the city walls? There is, unfortunately, no clear answer to this, but some theories may be hypothesized.
 
 Certainly the most obvious is that someone intended to hide their valuables from attackers. While an interesting story, thus far little evidence of attack has been found in this area of the city. Additionally, would it be wise to hide your valuable materials so near the point of attack?
 Given the proximity to an ecenomic hub for the city, maybe the horde belonged to merchant or trader who intended to have it available for business. This also raises some questions, such as why it would have been left there. It is possible that additional excavations in the area would reveal something about the local district that would help clarify who would have been in the area and what they might have been doing.
-Totem/means of protection for the city?
+Perhaps, if indeed an attack occurred, the materials were left as a totem or means of protection for the city. The value of the materials and their ascribed healing properties might have been perceived as a way to deter attack or to protect the wellbeing of Ilibalyk.
 
 ---
 
