@@ -2,7 +2,7 @@
 author: Rebecca Brach
 title: "Two Bracelets with Coral"
 layout: base
-header-image: images/two-bracelets-reconstructed-2019.png
+header-image: images/thematic-essay-thumbnail.png
 thumbnail: images/two-bracelets-thumbnail.png
 summary: Two elaborate bracelets of coral and other materials.
 geo: [44.123, 79.874]

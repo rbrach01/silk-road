@@ -2,8 +2,8 @@
 author: Rebecca Brach
 title: "Coral and Carnelian Adornment at Ilibalyk, Kazakhstan"
 layout: base
-header-image: images/two-bracelets.png
-thumbnail: images/thematic-essay-thumbnail.png
+header-image: images/thematic-essay-thumbnail.png
+thumbnail: images/one-bracelet.png
 summary: Frequently found in association with each other, coral and carnelian are eye-catching materials of adornment.
 ---
 
@@ -77,7 +77,7 @@ image-path="images/carnelian-beads.png"
 
 The shahristan is certainly representative of a different realm of identity and existence for the people living at Ilibalyk than the cemetery. Nevertheles, the similarty in materials found here with those in the necropolis demonstrates the integration of religious and cultural identity. The burial styles are Christian: all individuals are buried facing the east, the rising sun. Many of them are buried with religious symbols such as the four-petal rosette, or cross-engraved gravestones not discussed here. They are also buried with culturally identifying artifacts such as the scissors, or boqta headdresses also not discussed here. The people of Ilibalyk lived at a point of integration between their cultural and religious practices, alongside exotic and beautiful goods made available to them through the globalized network of trade which connected them to the rest of the Empire and byond.
 
-The presence of these exotic materials of coral and carnelian is further significant for what it reveals about the people of Ilibalyk's understanding of themsesleves and their place in the world. Possessing a maritime material such as coral connected the owner to a place they likely never saw in their lives: the ocean. As is seen with objects from the Tang dynasty depicting women and dress, their adornment was a means of identity and self expression. Coral demonstrated a connection and owneership over the exotic; the rich colors of the carnelian would certainly have been eye catching in the desert environment of Ilibalyk.
+The presence of these exotic materials of coral and carnelian is further significant for what it reveals about the people of Ilibalyk's understanding of themsesleves and their place in the world. Possessing a maritime material such as coral connected the owner to a place they likely never saw in their lives: the ocean. As is seen with objects from the Tang dynasty depicting women and dress, and many other women featured in ancient art, their adornment was a means of identity and self expression. Coral demonstrated a connection and owneership over the exotic; the rich colors of the carnelian would certainly have been eye catching in the desert environment of Ilibalyk.
 
 
 ---
