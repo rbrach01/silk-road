@@ -45,6 +45,7 @@ Alongside the pearl earrings and elaborate bracelets of coral, carnelian and oth
 {% assign images =
 "images/gold-ring.png,
 images/rosette-ring.png,
+images/silver-bracelet
 images/bracelets-and-rings.png" | split: ','
 %}
 
@@ -53,7 +54,7 @@ images = images
 %}
 
 ## In the Shahristan
-The shahristan was a hub for the medieval city of Ilibalyk. Near the city walls to the north and east of the city, excavation were done revealing a bathhouse, among other structural finds. In addition to these, a literal treasure box was found in a niche of the fortress wal (Eurasia Exploration Society, Switzerland et al. 2019). Within this box, among other stunning finds, was a coral necklace, and two necklaces of dark carnelian beads.
+The shahristan was a hub for the medieval city of Ilibalyk. Near the city walls to the north and east of the city, excavation were done revealing a bathhouse, among other structural finds. In addition to these, a literal treasure box was found in a niche of the fortress wall [^SEE]. Within this box, among other stunning finds, was a coral necklace, and two necklaces of dark carnelian beads.
 
 ## To be added: carousel or insert images of necklaces
 
