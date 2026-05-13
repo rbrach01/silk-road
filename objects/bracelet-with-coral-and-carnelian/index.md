@@ -16,10 +16,6 @@ tags:
 
 # Coral, Carnelian, and a Shell
 
-Although fragmented, this bracelet demonstrates and combination of many material types. Bleached pieces of coral, a carnelian bead, a tiny shell, and a small glass bead all comprised this bracelet [^SEE] Though far fewer beads have been preserved when compared to the other coral bracelet at Ilibalyk, this one is noteworthy for the presence of other maritime materials as well as the carnelian and its shape.
-
-[^SEE]: Society for the Exploration of Eurasia, Switzerland et al. 2024
-
 {% include images/figure.html
 class="right"
 width="48%"
@@ -27,9 +23,14 @@ caption="Pieces of the bracelet in a laboratory setting. [Source](https://www.ex
 image-path="images/coral-carnelian-bracelet-2024.png"
 %}
 
+Although fragmented, this bracelet demonstrates and combination of many material types. Bleached pieces of coral, a carnelian bead, a tiny shell, and a small glass bead all comprised this bracelet [^SEE] Though far fewer beads have been preserved when compared to the other coral bracelet at Ilibalyk, this one is noteworthy for the presence of other maritime materials as well as the carnelian and its shape.
+
+[^SEE]: Society for the Exploration of Eurasia, Switzerland et al. 2024
+
+
 ## Scissors - add image
 
-Metal can be notoriously difficult to preserve, depending on the context. At Ilibalyk, it often fragments as it is exposed, no matter the care taken. However, a pair of scissors uncovered in this burial is one of the clearest examples yet found at the site as the metal itself is visible, not only the shadow left in the soil
+Metal can be notoriously difficult to preserve, depending on the context. At Ilibalyk, it often fragments as it is exposed, no matter the care taken. However, a pair of scissors uncovered in this burial is one of the clearest examples yet found at the site. The metal itself was delicately uncovered and made visible, rather than only finding a shadow left in the soil. 
 
 {% include images/figure.html
 class="left"
