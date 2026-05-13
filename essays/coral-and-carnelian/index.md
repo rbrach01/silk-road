@@ -36,7 +36,9 @@ image-path="images/fragment-and-rings.png"
 Two graves thus far have yielded coral. Both graves were of women estimated to be middle aged, one of whom was in her final trimester of pregnancy. Additional grave goods were found with both women.
 
 
-At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [Society for the Exploration of Eurasia, Switzerland et al. 2023] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [Allsen 2019]
+At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [^SEE] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [^Allsen]
+
+[^Allsen]: Allsen 2019
 
 Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians as a hidden image of the cross [Stewart 2020].
 
@@ -58,15 +60,6 @@ The shahristan was a hub for the medieval city of Ilibalyk. Near the city walls 
 
 ## To be added: carousel or insert images of necklaces
 
-{% assign necklaces =
-"images/carnelian-beads.png
-images/coral-horde.png,
-images/carnelian-necklace.png," | split: ','
-%}
-
-{% include necklaces/carousel.html
-necklaces = necklaces
-%}}
 
 The shahristan is certainly representative of a different realm of identity and existence for the people living at Ilibalyk than the cemetery. Nevertheles, the similarty in materials found here with those in the necropolis demonstrates the integration of religious and cultural identity. The burial styles are Christian: all individuals are buried facing the east, the rising sun. Many of them are buried with religious symbols such as the four-petal rosette, or cross-engraved gravestones not discussed here. They are also buried with culturally identifying artifacts such as the scissors, or boqta headdresses also not discussed here.
 
