@@ -50,7 +50,7 @@ Alongside the pearl earrings and elaborate bracelets of coral, carnelian and oth
 {% assign images =
 "images/gold-ring.png,
 images/rosette-ring.png,
-images/silver-bracelet.png
+images/silver-bracelet.png,
 images/bracelets-and-rings.png" | split: ','
 %}
 

@@ -48,7 +48,7 @@ As many of these items were designed to be worn as adornment, it is apparent tha
 {% assign images =
 "images/earring-horde.png,
 images/jade-pendant.png,
-images/silver-bracelets-horde.png
+images/silver-bracelets-horde.png,
 images/pearl-horde.png" | split: ','
 %}
 
