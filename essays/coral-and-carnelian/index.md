@@ -3,7 +3,7 @@ author: Rebecca Brach
 title: "Coral and Carnelian Adornment at Ilibalyk, Kazakhstan"
 layout: base
 header-image: images/two-bracelets.png
-thumbnail: images/one-bracelet.png
+thumbnail: images/thematic-essay-thumbnail.png
 summary: Frequently found in association with each other, coral and carnelian are eye-catching materials of adornment.
 ---
 
@@ -40,7 +40,9 @@ At least two rings were found in each woman's grave. One was buried with a pair 
 
 [^Allsen]: Allsen 2019
 
-Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians as a hidden image of the cross [Stewart 2020].
+Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians as a hidden image of the cross [^Stewart].
+
+[^Stewart]: Stewart 2020
 
 ## Additional Jewelry Found in Burial
 
