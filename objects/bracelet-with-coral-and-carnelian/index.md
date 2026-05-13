@@ -23,18 +23,22 @@ caption="Pieces of the bracelet in a laboratory setting. [Source](https://www.ex
 image-path="images/coral-carnelian-bracelet-2024.png"
 %}
 
-Although fragmented, this bracelet demonstrates and combination of many material types. Bleached pieces of coral, a carnelian bead, a tiny shell, and a small glass bead all comprised this bracelet [^SEE] Though far fewer beads have been preserved when compared to the other coral bracelet at Ilibalyk, this one is noteworthy for the presence of other maritime materials as well as the carnelian and its shape.
+Although fragmented, this bracelet demonstrates and combination of many material types. Bleached pieces of coral, a carnelian bead, a tiny shell, and a small glass bead all comprised this bracelet [^SEE] Though far fewer beads have been preserved when compared to the other coral bracelet at Ilibalyk, this one is noteworthy for the presence of other maritime materials as well as the carnelian and its shape, which appears to be that of a gastropod.
+
+Not all the materials in the other set of bracelets have been identified, but there is no clear presence of shells. This bracelet then stands in contrast being comprised primarily of ocean-themed materials. 
 
 [^SEE]: Society for the Exploration of Eurasia, Switzerland et al. 2024
 
 
-## Scissors - add image
+## Scissors
 
-Metal can be notoriously difficult to preserve, depending on the context. At Ilibalyk, it often fragments as it is exposed, no matter the care taken. However, a pair of scissors uncovered in this burial is one of the clearest examples yet found at the site. The metal itself was delicately uncovered and made visible, rather than only finding a shadow left in the soil. 
+Metal can be notoriously difficult to preserve, depending on the context. At Ilibalyk, it often fragments as it is exposed, no matter the care taken. However, a pair of scissors uncovered in this burial is one of the clearest examples yet found at the site. The metal itself was delicately uncovered and made visible, rather than only finding a shadow left in the soil. The scissors were found nearly on top of her right hip. [^SEE]
+
+[^SEE2023]: Society for the Exploration of Eurasia, Switzerland et al. 2023
 
 {% include images/figure.html
 class="left"
-wideth="60%"
+wideth="80%"
 caption="Metal scissors picture in situ with centimeter scale.. [Source](https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html)"
 image-path="images/scissors.png"
 %}
@@ -45,4 +49,5 @@ This burial proved to be one of the most unique yet found at Ilibablyk, although
 
 ## Bibliography
 
+- Society for the Exploration of Eurasia, Switzerland, International Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Lanier Center for Archaeology, USA. 2023. “Field Report on the Archaeological Excavations at Ilibalyk Site (Medieval Christian Necropolis), Kazakhstan in 2023.” Society for the Exploration of Eurasia, Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
 - Society for the Exploration of Eurasia, Switzerland, International Institute for Central Asian Studies, RUTRUM LLP, Kazakhstan, and Lanier Center for Archaeology, USA. 2024. “Field Report on the Archaeological Excavations at Ilibalyk Site (Medieval Christian Necropolis), Kazakhstan in 2024.” https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
