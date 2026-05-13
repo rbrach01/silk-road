@@ -36,9 +36,10 @@ image-path="images/fragment-and-rings.png"
 Two graves thus far have yielded coral. Both graves were of women estimated to be middle aged, one of whom was in her final trimester of pregnancy. Additional grave goods were found with both women.
 
 
-At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [^SEE] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [^Allsen]
+At least two rings were found in each woman's grave. One was buried with a pair of scissors, and the other with pearled earrings. Although not common, scissors have become a regular find at Ilibalyk and have been noted in both male and female graves throughout the Mongolian Empire [^SEE] Pearls, on the other hand, are well known as widely traded prestige goods throughout the Mongol Empire. Their beauty, natural luminescence, and association with healing properties is well documented [^Allsen] Unlike the gold Roman earrings [^Rome], these were not designed for pierced ears, instead wrapping over the top. This may be due to the weight of the materials and quantity of pearls.
 
 [^Allsen]: Allsen 2019
+[^Rome]: https://amaranth.unm.edu/silk-road//objects/earring-roman/
 
 Alongside the pearl earrings and elaborate bracelets of coral, carnelian and other materials, the woman buried in this grave was wearing two additional silver bracelets, three silver rings, and one gold ring set with a green turquoise. Of these adornments, nearly all bear some form of religious imagery, primarily that of a four-leaf rosette. This symbol is known to have been used by Christians as a hidden image of the cross [^Stewart].
 
@@ -60,32 +61,30 @@ images = images
 ## In the Shahristan
 The shahristan was a hub for the medieval city of Ilibalyk. Near the city walls to the north and east of the city, excavation were done revealing a bathhouse, among other structural finds. In addition to these, a literal treasure box was found in a niche of the fortress wall [^SEE]. Within this box, among other stunning finds, was a coral necklace, and two necklaces of dark carnelian beads.
 
-## To be added: carousel or insert images of necklaces
-
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Another carnelian necklace. [Source](https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html)"
+caption="Reconstructed carnelian necklace. [Source](https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html)"
 image-path="images/carnelian-necklace.png"
 %}
 
 {% include images/figure.html
 class="left"
 width="48%"
-caption="Reconstructed carnelian necklace. [Source](https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html)"
+caption="Another carnelian necklace. [Source](https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html)"
 image-path="images/carnelian-beads.png"
 %}
 
-The shahristan is certainly representative of a different realm of identity and existence for the people living at Ilibalyk than the cemetery. Nevertheles, the similarty in materials found here with those in the necropolis demonstrates the integration of religious and cultural identity. The burial styles are Christian: all individuals are buried facing the east, the rising sun. Many of them are buried with religious symbols such as the four-petal rosette, or cross-engraved gravestones not discussed here. They are also buried with culturally identifying artifacts such as the scissors, or boqta headdresses also not discussed here.
+The shahristan is certainly representative of a different realm of identity and existence for the people living at Ilibalyk than the cemetery. Nevertheles, the similarty in materials found here with those in the necropolis demonstrates the integration of religious and cultural identity. The burial styles are Christian: all individuals are buried facing the east, the rising sun. Many of them are buried with religious symbols such as the four-petal rosette, or cross-engraved gravestones not discussed here. They are also buried with culturally identifying artifacts such as the scissors, or boqta headdresses also not discussed here. The people of Ilibalyk lived at a point of integration between their cultural and religious practices, alongside exotic and beautiful goods made available to them through the globalized network of trade which connected them to the rest of the Empire and byond.
 
-Further elaboration upon the significance of exotic materials such as coral and carnelian in these burials and their role in showing how the people of Ilibalyk understood themselves and their place in the world.
+The presence of these exotic materials of coral and carnelian is further significant for what it reveals about the people of Ilibalyk's understanding of themsesleves and their place in the world. Possessing a maritime material such as coral connected the owner to a place they likely never saw in their lives: the ocean.
 
 
 ---
 
 ## Bibliography
 
-- Allson, Thomas T. 2019. The Steppe and the Sea: Pearls in the Mongol Empire. Univeristy of Pennsylvania Press.
+- Allsen, Thomas. 2019. The Steppe and the Sea: Pearls in the Mongol Empire. Encounters with Asia. University of Pennsylvania Press.
 - Eurasia Exploration Society, Switzerland, International Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Tandy Institute for Archaeology. 2019. “Field Report on the Archaeological Excavations at Usharal-Ilibalyk, Kazakhstan in 2019.” Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
 - Society for the Exploration of Eurasia, Switzerland, International Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Lanier Center for Archaeology, USA. 2023. “Field Report on the Archaeological Excavations at Ilibalyk Site (Medieval Christian Necropolis), Kazakhstan in 2023.” Society for the Exploration of Eurasia, Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
 - Stewart, Charles Anthony. 2020. “The Four-Petal Almond Rosette in Central Asia.” Bulletin of IICAS (Samarkand) 30: 69–85. https://doi.org/10.34920/1694-5794-2020-36.
