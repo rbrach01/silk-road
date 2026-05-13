@@ -25,7 +25,7 @@ caption="The two bracelets reconstructed based on the location of the beads with
 image-path="images/two-bracelets-reconstructed-2019.png"
 %}
 
-This is one of the richest graves found at the necropolis of Ilibalyk. The silver bracelets and rings still convey intricacy and beauty in spite of more than 500 years spent in the ground. The fine line work of the rings and bracelets in particular is noteowrthy, as is their apparent function as a matching set. This could indicate these objects were crafted specifically for this woman, having been commissioned with a design and material particular to her preferences.
+This is one of the richest graves found at the necropolis of Ilibalyk. The silver bracelets and rings still convey intricacy and beauty in spite of more than 500 years spent in the ground. The fine line work of the rings and bracelets in particular is noteworthy, as is their apparent function as a matching set. This could indicate these objects were crafted specifically for this woman, having been commissioned with a design and material particular to her preferences.
 
 {% include scrollybox/bg.html
   image-path="images/bracelets-and-rings.png"
@@ -35,9 +35,9 @@ This is one of the richest graves found at the necropolis of Ilibalyk. The silve
 %}
 
 
-The four-petal rosette found on both the ends of the bracelts and the bezel of one of the rings, also found on a ring discovered in a different grave during an earlier excavation season, has been the subject of some study. Rosettes are common across Eurasia, but this particular design has been seen across the Chrstian world [^Stewart]. In the days of the early church, the rosette was often worn or incorporated into house art because of its dual function as reversible or ambiguous image. The flower petals were a recognized motif, but by focusing on the negative space in the background, the image of a cross becomes visible. This was particularly important to the early church as a means of representing their faith while under severe political and social persecution.
+The four-petal rosette found on both the ends of the bracelets and the bezel of one of the rings, also found on a ring discovered in a different grave during an earlier excavation season, has been the subject of some study. Rosettes are common across Eurasia, but this particular design has been seen across the Christian world [^Stewart]. In the days of the early church, the rosette was often worn or incorporated into house art because of its dual function as reversible or ambiguous image. The flower petals were a recognized motif, but by focusing on the negative space in the background, the image of a cross becomes visible. This was particularly important to the early church as a means of representing their faith while under severe political and social persecution.
 
-The presence of such imagery in Ilibalyk is significant because it indicates not only a transmission of beliefs and ideaology, but of history and art. It demonstrates the endurance of certain traditions and narratives even as the Church schismed in the West and missionaries expressed uncertainty about the beliefs of Eastern Christians.
+The presence of such imagery in Ilibalyk is significant because it indicates not only a transmission of beliefs and ideology, but of history and art. It demonstrates the endurance of certain traditions and narratives even as a schism rocked the Church in the West and missionaries expressed uncertainty about the beliefs of Eastern Christians.
 
 [^Stewart]: Stewart 2020
 

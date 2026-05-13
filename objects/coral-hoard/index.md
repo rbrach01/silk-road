@@ -40,13 +40,13 @@ The Indian Ocean theory appears to be somewhat unusual. Although sources are kno
   box-content='More than 400 pearls of varying size and shape were found in this treasure trove, all with drilled holes for use'
 %}
 
-The Mongols were eager to maintain trade and ensure the continued movement of prestige goods, particularly those of exotic origin. Knowing their passion for pearls for their association with the ocean, something largely foreign to most dwelling within the Central Asia region, it is unsurprising they would have a high demand for coral. Pearls were prized in part for their purity of color and natural luminescence [Allson 2019]. As was seen with the other materials found in the horde, the people of Ilibalyk may have adorned themselves regularly in bright colors. Red coral would have been an excellent contributor to this practice.
+Pearl hordes are not an unusual find in the Central Asian region of the Mongol Empire. The Mongols were eager to maintain trade and ensure the continued movement of prestige goods, particularly those of exotic origin. Pearls were desirable because of their association with the ocean, something largely foreign to most dwelling within landlocked Central Asia. It is unsurprising, then, that there would be a corresonding high demand for coral, a slightly cheaper material. Pearls were prized in part for their purity of color and natural luminescence [^Allsen]. As was seen with the other materials found in the horde, the people of Ilibalyk may have adorned themselves regularly in bright colors. Red coral would have been an excellent contributor to this practice.
 
-Because of the abundance of source attesting to the coral trade from the Mediterranean, and lacking clear evidence for the Indian Ocean theory, it seems the most obvious answer may indeed be the correct one. In conjunction with more global understanding of the Mongol Empire and its commitment to trade, the idea of Mediterranean coral reaching the steppes of Central Asia seems more likely than it might initially appear.
+Because of the abundance of sources attesting to the coral trade from the Mediterranean, and lacking clear evidence for the Indian Ocean theory, it seems the most obvious answer may indeed be the correct one. In conjunction with more global understanding of the Mongol Empire and its commitment to trade, the idea of Mediterranean coral reaching the steppes of Central Asia seems more likely than it might initially appear.
 
 ---
 
 ## Bibliography
 
-- Allson, Thomas T. 2019. The Steppe and the Sea: Pearls in the Mongol Empire. Univeristy of Pennsylvania Press.
+- Allsen, Thomas. 2019. The Steppe and the Sea: Pearls in the Mongol Empire. Encounters with Asia. University of Pennsylvania Press.
 - Eurasia Exploration Society, Switzerland, International Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Tandy Institute for Archaeology. 2019. “Field Report on the Archaeological Excavations at Usharal-Ilibalyk, Kazakhstan in 2019.” Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
