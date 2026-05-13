@@ -2,7 +2,7 @@
 author: Rebecca Brach
 title: "Carnelian Necklaces"
 layout: base
-header-image: images/carnelian-beads.png
+header-image: images/carnelian-header.png
 thumbnail: images/carnelian-necklace.png
 summary: Dramatic carnelian necklaces found in a treasure trove.
 geo: [44.119, 79.885]
