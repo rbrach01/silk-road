@@ -16,7 +16,9 @@ tags:
 
 # A Matching Set
 
-Two similarly designed bracelets with coral and carnelian were found during the 2019 excavation season in a burial alongside many other grave goods. Through careful excavation, the position of the beads was maintained within the grave and thoroughly documented prior to extraction. This allowed for a laboratory reconstruction of how they may have been strung. The materials include coral, carnelian, glass paste, and a few beads that may be jade and lapis lazuli.
+Two similarly designed bracelets with coral and carnelian were found during the 2019 excavation season in a burial alongside many other grave goods. Through careful excavation, the position of the beads was maintained within the grave and thoroughly documented prior to extraction. This allowed for a laboratory reconstruction of how they may have been strung. The materials include coral, carnelian, glass paste, and a few beads that may be jade and lapis lazuli. [^2019]
+
+[^2019]: Eurasia Exploration Society, Switzerland et al. 2019
 
 {% include images/figure.html
 class="right"
@@ -52,5 +54,4 @@ The presence of such imagery in Ilibalyk is significant because it indicates not
 ## Bibliography
 
 - Institute for Central Asian Studies, Archaeological Expertise LLP, Kazakhstan, and Tandy Institute for Archaeology. 2019. “Field Report on the Archaeological Excavations at Usharal-Ilibalyk, Kazakhstan in 2019.” Society for the Exploration of Eurasia. https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
-- Society for the Exploration of Eurasia, Switzerland, International Institute for Central Asian Studies, RUTRUM LLP, Kazakhstan, and Lanier Center for Archaeology, USA. 2024. “Field Report on the Archaeological Excavations at Ilibalyk Site (Medieval Christian Necropolis), Kazakhstan in 2024.” https://www.exploration-eurasia.com/inhalt_english/frameset_projekt_aC.html.
 - Stewart, Charles Anthony. 2020. “The Four-Petal Almond Rosette in Central Asia.” Bulletin of IICAS (Samarkand) 30: 69–85. https://doi.org/10.34920/1694-5794-2020-36.
