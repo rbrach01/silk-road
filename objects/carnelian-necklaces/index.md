@@ -15,7 +15,7 @@ tags:
 
 # Carnelian from the Treasure Chest
 
-Treasure chest may be a dramatic way to phrase this find, but it is certainly the type of find people like to tell stories about. Found within a niched of the medieval fortress wall, this collection of artifacts is a beautiful example of a diverse collection of materials that could be found throughout the silk roads during the time of the Mongol Empire. The horde was contained in a wooden box covered in leather, although these materials had severely degraded over the years. 
+Treasure chest may be a dramatic way of describing this find, but it is certainly the type of discovery people like to tell stories about. Found within a niched of the medieval fortress wall, this collection of artifacts is a beautiful example of a diverse collection of materials that could be found throughout the silk roads during the time of the Mongol Empire. The horde was contained in a wooden box covered in leather, although these materials had severely degraded over the years. 
 
 Between the two necklaces found in the horde, 69 carnelian beads were found ranging in size and shape [Public Fund “Archaeological Society of Kazakhstan”, Republic of Kazakhstan and The Society for the Exploration of Eurasia, Switzerland 2018]. Additional necklaces of silver beads were also found, in addition to silver bracelets. 
 

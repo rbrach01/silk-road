@@ -29,15 +29,15 @@ Two primary theories exist for the origin of this coral: the Indian Ocean [^EES]
 [^EES]: Eurasia Exploration Society, Switzerland et al. 2019
 [^Allsen]: Allsen 2019
 
-The Indian Ocean theory appears to be somewhat unusual. Although sources are known for red coral in the region, there is well documented trade of the material from the Mediterranean. It may be that the Indian Ocean feels like a more plausible source for a site located so far to the East. However, this may arise from a misunderstanding of the relationship between Europe and the West with the Mongol Empire and the East.
+The Indian Ocean theory appears to be somewhat unusual. Although sources are known for red coral in the region, there is well documented trade of the material from the Mediterranean. It may be that the Indian Ocean feels like a more plausible source for a site located so far to the East. However, this may arise from a misunderstanding of the relationship between Europe and the West with the Mongol Empire and the East. To better understand this, it is worth considering the other items found alongside the coral.
 
-## Add: pearl horde image
+## Pearl Horde
 
-{% include images/figure.html
-class="left"
-width="60%"
-caption="More than 400 pearls were found in this 'treasure trove'. [Source](https://www.exploration-eurasia.com/inhalt/Ilanbalyk_2018.pdf)"
-image-path="images/pearl-horde.png"
+{% include scrollybox/bg.html
+  image-path="images/pearl-horde.png"
+  above-box-space = "100vh"
+  below-box-space = "80vh"
+  box-content='More than 400 pearls of varying size and shape were found in this treasure trove, all with drilled holes for use'
 %}
 
 The Mongols were eager to maintain trade and ensure the continued movement of prestige goods, particularly those of exotic origin. Knowing their passion for pearls for their association with the ocean, something largely foreign to most dwelling within the Central Asia region, it is unsurprising they would have a high demand for coral. Pearls were prized in part for their purity of color and natural luminescence [Allson 2019]. As was seen with the other materials found in the horde, the people of Ilibalyk may have adorned themselves regularly in bright colors. Red coral would have been an excellent contributor to this practice.
