@@ -16,8 +16,9 @@ tags:
 
 # Coral, Carnelian, and a Shell
 
-Although framented, this bracelet demonstrates and combination of many material types. Bleached pieces of coral, a carnelian bead, a tiny shell, and a small glass bead all comprised this bracelet [Society for the Exploration of Eurasia, Switzerland et al. 2024)]
+Although framented, this bracelet demonstrates and combination of many material types. Bleached pieces of coral, a carnelian bead, a tiny shell, and a small glass bead all comprised this bracelet [^SEE] Though much more fragmented than the other coral bracelet at Ilibalyk, this is noteworthy for the presence of other maritime materials as well as the carnelian and its shape.
 
+[^SEE]: Society for the Exploration of Eurasia, Switzerland et al. 2024
 
 {% include images/figure.html
 class="right"
